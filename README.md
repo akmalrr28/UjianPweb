@@ -36,9 +36,6 @@
   - Desktop
   - Mobile
 
-### Date created
-  - January 2025
-
 ### How to run
   - React
 ```
